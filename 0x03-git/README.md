@@ -29,9 +29,9 @@ your answer files should only contain the command, and nothing else
 0. Create and setup your Git and GitHub account
 1. Repo-session
 2. Coding fury road
-|Content 1|Content 2|
+| Content 1 | Content 2 |
 |-----|------|
-|[dir c](c)|[dir bash](bash)|
+| [dir c](c) | [dir bash](bash) |
 
 
 ### MORE INFO
