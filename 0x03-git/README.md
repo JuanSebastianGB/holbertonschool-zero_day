@@ -25,6 +25,12 @@
 - Do not use github’s web ui, but the command line to perform the exercise (except for operations that can not possibly be done any other way than through the web ui). you won’t be able to perform many of the task requirements on the web ui, and you should start getting used to the command line for simple tasks because many complex tasks can only be done via the command line.
 your answer files should only contain the command, and nothing else
 
+### Tasks
+0. Create and setup your Git and GitHub account
+1. Repo-session
+2. Coding fury road
+
+
 ### MORE INFO
 
 - install Git if not installed
