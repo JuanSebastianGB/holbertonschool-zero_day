@@ -1,5 +1,7 @@
 # Holberton 0-Day - 0-Day
 
+This is an introductory Module. And is about the main tools used to edit codes and running our own vm
+
 ## Proyects
 
 1. [0x00-vagrant](0x00-vagrant)
