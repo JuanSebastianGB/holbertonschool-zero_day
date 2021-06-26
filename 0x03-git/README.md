@@ -22,8 +22,8 @@
 
 - A README.md file at the root of the holbertonschool-zero_day repo, containing a description of the repository
 - A README.md file, at the root of the folder of this project (i.e. 0x03-git), describing what this project is about
-- DO NOT USE GITHUB’S WEB UI, BUT THE COMMAND LINE TO PERFORM THE EXERCISE (EXCEPT FOR OPERATIONS THAT CAN NOT POSSIBLY BE DONE ANY OTHER WAY THAN THROUGH THE WEB UI). YOU WON’T BE ABLE TO PERFORM MANY OF THE TASK REQUIREMENTS ON THE WEB UI, AND YOU SHOULD START GETTING USED TO THE COMMAND LINE FOR SIMPLE TASKS BECAUSE MANY COMPLEX TASKS CAN ONLY BE DONE VIA THE COMMAND LINE.
-YOUR ANSWER FILES SHOULD ONLY CONTAIN THE COMMAND, AND NOTHING ELSE
+- Do not use github’s web ui, but the command line to perform the exercise (except for operations that can not possibly be done any other way than through the web ui). you won’t be able to perform many of the task requirements on the web ui, and you should start getting used to the command line for simple tasks because many complex tasks can only be done via the command line.
+your answer files should only contain the command, and nothing else
 
 ### MORE INFO
 
@@ -34,3 +34,12 @@ $ sudo apt-get upgrade
 $ sudo apt-get install git
 ```
 
+### Basic usage
+
+```shell
+$ git clone <repo>
+$ touch test
+$ git add test
+$ git commit -m "Initial commit"
+$ git push origin main
+```
