@@ -1,4 +1,4 @@
-# Holberton Vagrant
+# Vagrant
 ## Learning objetives
 - What is a zero-day
 - What is a virtual machine
