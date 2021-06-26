@@ -18,3 +18,15 @@
 ### Requirements
 - All tasks must be done inside the sandbox Ubuntu 20.04
 - Your sandbox must be available at the end of this project - the Checker will access to it at midnight for running the correction!
+
+### Tasks
+0. Create your answer directory
+1. Opening
+2. Saving
+3. Cutting
+4. Pasting
+5. Searching
+6. Undoing
+7. Quitting
+
+
