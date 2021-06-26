@@ -29,4 +29,6 @@
 6. Undoing
 7. Quitting
 
+### Main Resource
 
+[Refcard Emcas](https://www.gnu.org/software/emacs/refcards/pdf/refcard.pdf)
